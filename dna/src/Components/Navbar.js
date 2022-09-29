@@ -5,9 +5,9 @@ import HamburgerDrawer from './HamburgerDrawer'
 const Navbar = (setCategory) => {
   return (
     <div>
-       <div className='nav'>
+       <div className='navbar'>
 
-        <div className="menu"><hamburger /></div>
+        <div className="menu"><HamburgerDrawer /></div>
         <HamburgerDrawer setCategory={setCategory} />
        
 
@@ -17,7 +17,7 @@ const Navbar = (setCategory) => {
        height='60%'
        alt='logo'/>
 
-      <button class="hindi" href="">हिंदी में पढ़ें</button>
+      <button className="hindi" href="">हिंदी में पढ़ें</button>
 
        </div>
        </div>
