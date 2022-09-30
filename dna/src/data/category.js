@@ -11,7 +11,7 @@ const categories = [
     "latest News",
     "Lifestyle",
     "viral News",
-    "Ezmall"
+    
 
   ];
   export default categories;

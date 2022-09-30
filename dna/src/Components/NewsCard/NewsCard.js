@@ -5,8 +5,8 @@ const NewsCard = ({ newsItem }) => {
   // console.log(newsItem);
 
   //2021-01-09T12:15:30Z
-  const fulldate = new Date(newsItem.publishedAt); // Sat  Jan 09 2021  17:45:30  GMT+0530
-  var date = fulldate.toString().split(" "); // ["Sat", "Jan", "09", "2021", "17:45:30", "GMT+0530"]
+  const fullDate = new Date(newsItem.publishedAt); // Sat  Jan 09 2021  17:45:30  GMT+0530
+  var date = fullDate.toString().split(" "); // ["Sat", "Jan", "09", "2021", "17:45:30", "GMT+0530"]
   const hour = parseInt(date[4].substring(0, 2)); //
   const time = hour > 12 ? true : false;
 
@@ -41,7 +41,7 @@ const NewsCard = ({ newsItem }) => {
         </div>
         <div className="lowerNewsText">
           <div className="description">{newsItem.description}</div>
-          <span className="readmore">
+          <span className="readMore">
             read more at{" "}
             <a href={newsItem.url} target="__blank" className="source">
               <b>{newsItem.source.name}</b>
