@@ -61,6 +61,6 @@ The paper has a readership that is educated, young, contemporary and upwardly mo
 - I learned how to plan a project and execute that in a limited time frame.
 
 
-### vercel Link:
+### vercel Link: https://touted-toad-5222-dna-4kh1.vercel.app
 
-### Github Link:
+### Github Link: https://github.com/priyankaphulmante98/touted-toad-5222/tree/main
