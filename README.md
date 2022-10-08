@@ -1,5 +1,4 @@
 # touted-toad-5222
-# indiviusal project 
 # DNA India Clone Project 
 
 Hello Everyone !🌏 I am priyanka phulmante from Web18 batch and I am presenting my individual project Clone of DNA India , built during construct week of Unit-4.
