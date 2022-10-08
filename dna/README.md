@@ -2,7 +2,7 @@
 # indiviusal project 
 # DNA India Clone Project 
 
-Hello Everyone !🌏 I am Pallavee Kumari from Web18 batch and I am presenting my individual project Clone of DNA India , built during construct week of Unit-4.
+Hello Everyone !🌏 I am priyanka phulmante from Web18 batch and I am presenting my individual project Clone of DNA India , built during construct week of Unit-4.
 
 
 ## Details : 🔭
