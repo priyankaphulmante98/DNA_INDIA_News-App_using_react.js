@@ -34,24 +34,24 @@ The paper has a readership that is educated, young, contemporary and upwardly mo
 ## Screenshots
 
 - ### Home Page
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Homepage.png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Homepage.png)
 
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Homepage(2).png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Homepage(2).png)
 
 
 - ### Footer 
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Footer.png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Footer.png)
 
 
 - ### LatestNews Page
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Latestnews.png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Latestnews.png)
 
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Latestnews(2).png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Latestnews(2).png)
 
 - ### Description Page
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Description.png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Description.png)
 
-![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/dna/dnaindiaPhotos/Description(2).png?raw=true)
+![App Screenshot](https://github.com/priyankaphulmante98/touted-toad-5222/blob/main/dna/dnaindiaPhotos/Description(2).png)
 
 ## Lessons Learned
 .
